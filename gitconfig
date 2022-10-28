@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amir.haikel@gmail.com
+	name = amir haikel
